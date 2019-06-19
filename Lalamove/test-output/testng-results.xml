@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2883" started-at="2019-06-19T09:26:09Z" finished-at="2019-06-19T09:26:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2883" started-at="2019-06-19T09:26:09Z" finished-at="2019-06-19T09:26:12Z">
+      <class name="Logistics">
+        <test-method status="PASS" signature="placeOrder()[pri:0, instance:Logistics@18be83e4]" name="placeOrder" is-config="true" duration-ms="2688" started-at="2019-06-19T09:26:09Z" finished-at="2019-06-19T09:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method status="PASS" signature="assignOrder()[pri:0, instance:Logistics@18be83e4]" name="assignOrder" duration-ms="124" started-at="2019-06-19T09:26:11Z" finished-at="2019-06-19T09:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assignOrder -->
+        <test-method status="PASS" signature="completeOrder()[pri:0, instance:Logistics@18be83e4]" name="completeOrder" duration-ms="33" started-at="2019-06-19T09:26:12Z" finished-at="2019-06-19T09:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeOrder -->
+        <test-method status="PASS" signature="fetchOrder()[pri:0, instance:Logistics@18be83e4]" name="fetchOrder" duration-ms="22" started-at="2019-06-19T09:26:12Z" finished-at="2019-06-19T09:26:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchOrder -->
+      </class> <!-- Logistics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
